@@ -1,0 +1,7 @@
+print("Encuesta")
+nombre = input("Ingrese su nombre: ")
+edad = input("Ingrese su edad: ")
+ciudad = input("Ingrese su ciudad: ")
+print("Gracias por participar en la encuesta, " + nombre + ".")
+print("Edad: " + edad)
+print("Ciudad: " + ciudad)
