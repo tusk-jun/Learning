@@ -1,4 +1,10 @@
-Nombre= "joicer"
-print(len(Nombre))
-print(Nombre.find("e"))
-print(Nombre.capitalize())
+Nombre= "Joicer"
+#print(len(Nombre))
+#print(Nombre.find("e"))
+#print(Nombre.capitalize())
+#print(Nombre.upper())
+#print(Nombre.lower())
+#print(Nombre.isdigit())
+#print(Nombre.isalpha())
+#print(Nombre.count("J"))
+print(Nombre.replace("J", "H"))
